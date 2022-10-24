@@ -1,14 +1,4 @@
-<img src="https://www.edoardoottavianelli.it/post/post7/ejpt.jpg">
 
-----------
-
-
-#### Exam setup
-- Download OPVN configuration file
-- `sudo openvpn file.ovpn`
-- Enter username and password
-- CTRL+Z
-- `bg`
 
 #### Add a route in IP routes:
 Linux:
