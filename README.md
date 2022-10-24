@@ -23,7 +23,7 @@ and you want that service available on the target host 192.168.0.100 port 12340
 ssh -R 12340:localhost:9999 user@192.168.0.100
 ```
 
-Local proxy through remote host
+#### Local proxy through remote host
 You want to route network traffic through a remote host target.host
 so you create a local socks proxy on port 12001 and configure the SOCKS5 settings to localhost:12001
 
